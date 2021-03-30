@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Asram Ahamed</h1>
 <h3 align="center">A passionate frontend developer from SriLanka</h3>
 
