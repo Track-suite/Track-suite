@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/ehmedazrem" target="blank"><img src="https://img.shields.io/twitter/follow/ehmedazrem?logo=twitter&style=for-the-badge" alt="ehmedazrem" /></a> </p>
 
-- 🌱 I’m currently learning **c# and reactjs**
+- 🌱 I’m currently learning **THREE.js and reactjs**
 
 - 📫 How to reach me **youngunner1998@gmail.com, asrama1998@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ehmedazrem" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ehmedazrem" height="30" width="40" /></a>
+<a href="https://twitter.com/AzremEhmed" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ehmedazrem" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/asram ahamed" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="asram ahamed" height="30" width="40" /></a>
 <a href="https://fb.com/asram ahamed" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="asram ahamed" height="30" width="40" /></a>
 <a href="https://instagram.com/azr.em_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="azr.em_" height="30" width="40" /></a>
