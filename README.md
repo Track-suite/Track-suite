@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/AzremEhmed" target="blank"><img src="https://img.shields.io/twitter/follow/AzremEhmed?logo=twitter&style=for-the-badge" alt="AzremEhmed" /></a> </p>
 
-- 🌱 I’m currently learning **THREE.js and reactjs**
+- 🌱 I’m currently learning **THREE.js, React.js and Next.js**
 
 - 📫 How to reach me **youngunner1998@gmail.com, asrama1998@gmail.com**
 
