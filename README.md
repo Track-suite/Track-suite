@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=track-suite" alt="track-suite" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/AzremEhmed" target="blank"><img src="https://img.shields.io/twitter/follow/AzremEhmed?logo=twitter&style=for-the-badge" alt="AzremEhmed" /></a> </p>
+ </p>
 
 - 🌱 I’m currently learning **THREE.js, React.js and Next.js**
 
